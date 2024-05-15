@@ -39,24 +39,19 @@ $ yarn install
 $ yarn run start
 
 # watch mode
-$ yarn run start:dev
-
-# production mode
-$ yarn run start:prod
+$ yarn start:dev
 ```
 
 ## Test
 
 ```bash
-# unit tests
-$ yarn run test
-
 # e2e tests
-$ yarn run test:e2e
+$ yarn test:e2e
 
-# test coverage
-$ yarn run test:cov
 ```
+
+## Description
+This is learning project for bookmarks api by NestJs with e2e testing.
 
 ## Support
 
